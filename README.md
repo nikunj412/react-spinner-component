@@ -106,7 +106,7 @@ For more information on SemVer, please visit http://semver.org.
 ## Credits
 
  Inspired by [React-Spinkit](https://github.com/danielcardoso/load-awesome)
- Help by [Nikunj Jariwala, Yuvraj Chauhan]
+ Help by [[Nikunj Jariwala](https://github.com/nikunj412), Yuvraj Chauhan]
 
  ## License
 
